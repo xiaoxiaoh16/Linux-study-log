@@ -1,0 +1,6 @@
+
+1.cp all find files to a fixed directory:
+ find . -name '*.R' -exec cp {} /home/xhao/src/R \;
+
+2.
+
